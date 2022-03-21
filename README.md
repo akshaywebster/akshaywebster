@@ -1,4 +1,4 @@
-# Hi 👋 My name is Akshay Chaudhary
+# Hi 👋 My name is Akshay
 
 ## Front-End Developer
 
