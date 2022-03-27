@@ -8,11 +8,15 @@ I'm a passionate introvert who loves building stellar user experiences & elegant
 - 🖥️  See my portfolio at [www.akshaywebster.com](http://akshaywebster.com)
 - ✉️  You can contact me at [akshaych49@gmail.com](mailto:akshaych49@gmail.com)
 - 🧠  I'm always learning.
-- 🤝  I'm open to collaborating on front-end remote opportunities.
+- 🤝  I'm open to entry-level front-end remote opportunities.
+- ⚡ My Superpower – I can learn anything.
 
 <a href="https://www.twitter.com/akshaywebster" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/akshaywebster?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a>
+
+<a href="https://www.github.com/akshaywebster" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/akshaywebster?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -39,3 +43,7 @@ src="https://img.shields.io/twitter/follow/akshaywebster?logo=twitter&style=for-
 <a href="http://www.github.com/akshaywebster"><img src="https://activity-graph.herokuapp.com/graph?username=akshaywebster&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/akshaywebster" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaywebster&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/akshaywebster"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
