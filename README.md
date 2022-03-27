@@ -8,7 +8,7 @@ I'm a passionate introvert who loves building stellar user experiences & elegant
 - 🖥️  See my portfolio at [www.akshaywebster.com](http://akshaywebster.com)
 - ✉️  You can contact me at [akshaych49@gmail.com](mailto:akshaych49@gmail.com)
 - 🧠  I'm always learning.
-- 🤝  I'm open to entry-level front-end remote opportunities.
+- 🤝  I'm open to collaborating on front-end remote opportunities.
 - ⚡ My Superpower – I can learn anything.
 
 <a href="https://www.twitter.com/akshaywebster" target="_blank" rel="noreferrer"><img
